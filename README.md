@@ -1,2 +1,7 @@
 # Jogo_da_velha
-Jogo da velha com HTML, CSS e JS. Fluido, elegante e divertido!
+Teste realizado para modulo de JS, HTML e CSS do curso Desenvolvimento Web - Do zero ao primeiro projeto @progamadorBR;
+
+No teste foi utilizado:
+
+HTML; CSS; JavaScript; Separação entre interface e estrutura de negócio; Inclusão de pseudoelementos; Inclusão de imagens em pseudoelementos;
+Fluido, elegante e divertido!
